@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+easyocr
+numpy
+pandas
+requests
+pyyaml
+tqdm
+seaborn
+matplotlib
+scipy
+ultralytics
+gitpython
