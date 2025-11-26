@@ -1,2 +1,2 @@
 # LogicDesignProject
-
+READ INSTRUCTION
