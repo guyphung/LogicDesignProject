@@ -30,4 +30,4 @@ python main.py
 
 ## PRECAUTION
 * Both the main application and the trained YOLOv5 model weights file MUST be in the same directory
-* ALL dependencies listed in requirements.txt must be installed for the project to work 
+* ALL dependencies listed in requirements.txt MUST be installed for the project to work 
